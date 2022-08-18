@@ -1,0 +1,21 @@
+/* style.css for index.html */
+
+p {
+    background-color: rgb(211, 149, 159);
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#element3 {
+    font-size: 24px;
+}
+
+#element4 {
+    background-color: rgb(90, 170, 90);
+    font-size: 24px;
+    font-weight: bold;
+}
