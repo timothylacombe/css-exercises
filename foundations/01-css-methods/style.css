@@ -1,0 +1,9 @@
+/* style.css intended for index.html*/
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    align-self: center;
+    font-weight: bold;
+}
